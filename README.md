@@ -29,6 +29,20 @@ I'm a **Software Engineer** passionate about building renowned technologies and 
 
 ---
 
+## Database Systems
+- MySQL, PGSQL,
+- MongoDB, Firebase, DynamoDB
+- Data Partitioning & Sharding Strategies
+- Cache Implementation Patterns
+
+## Cloud Services
+- VPS
+- AWS
+- GCP
+- Azure
+
+---
+
 ## 🌟 Let's Connect!
 
 - [X/Twitter](https://x.com/AkubuezeErnest)
