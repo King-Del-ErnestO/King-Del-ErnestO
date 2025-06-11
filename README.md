@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **King-Del-ErnestO/King-Del-ErnestO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,8 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm Akubueze Del Ernest!
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontAlign=50&fontAlignY=40&fontSize=35&desc=Software%20Engineer%20%7C%20ML%20%26%20AI%20Enthusiast&descAlign=50&descAlignY=70)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontAlign=50&fontAlignY=40&fontSize=35&desc=Software%20Engineer%20%7C%20ML%20%26amp%3B%20AI%20Enthusiast&descAlign=50&descAlignY=70
+)
 
 ## 🚀 About Me
 
