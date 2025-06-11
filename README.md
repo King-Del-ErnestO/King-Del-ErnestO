@@ -35,6 +35,7 @@ I'm a **Software Engineer** passionate about building renowned technologies and 
 - [LinkedIn](https://www.linkedin.com/in/ernest-akubueze-b53602229/)
 - [Facebook](https://www.facebook.com/share/19D8Z2387M/)
 - [Hashnode Blog](https://ernestakubueze.hashnode.dev/)
+- [Gmail](mailto:delernestoa@gmail.com)
 
 ---
 
